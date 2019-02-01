@@ -1,0 +1,9 @@
+Building SUBX
+
+See doc/readme-qt.rst for instructions on building SUBX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SUBX.
+
+See doc/build-*.txt for instructions on building SUBXd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SUBX.
